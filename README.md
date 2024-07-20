@@ -5,6 +5,14 @@ Projeto para trabalho de pós gradução de IA para Devs
 - Python
 - Bibliotecas Python:
   - Random
-  - Math
+  - Numpy
   - Matplotlib
+  - Scipy
   - Deap
+  - Geopy
+
+# pip install geopy
+# pip install deap
+# pip install scipy
+# pip install matplotlib
+# pip install numpy
